@@ -7,7 +7,7 @@ This repository demonstrates a complete **multi-language CI/CD pipeline** using 
 -  Static Website Deployment to GitHub Pages
 -  Python-based Monitoring Script
 -  k6 Load Testing
--  Student Participation (Real-Time Traffic Observation)
+-  Student's Participation (Real-Time Traffic Observation)
 
 ---
 
